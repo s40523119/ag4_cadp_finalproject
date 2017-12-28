@@ -21,6 +21,7 @@ https://s40523119.github.io/ag4_cadp_finalproject/.
 *整體系統的尺寸必須能夠放入郵局 Box2 紙箱中(規格: 23×18×19(cm)*
 
 - [Stairs marble machine](https://youtu.be/MnykWWEsa8E)
+- https://www.youtube.com/watch?v=3OGyLHu24rk
 
 ---
 
